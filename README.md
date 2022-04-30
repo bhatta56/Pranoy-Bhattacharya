@@ -47,9 +47,9 @@ Ex PayPal (Data Analyst) | MS @ Purdue (BAIM)
 
 
 # PUBLICATIONS, ACTIVITIES, CERTIFICATIONS
-#### “Mitigating Hotel Revenue Management System Risk Using Anomaly Detection in Short Booking Windows”-Paper Publication-MWDSI 2022 Conference.
-#### Google Data Analytics Professional Certification- Coursera.
-#### Data Camp: Data Analytics with Python.
+* “Mitigating Hotel Revenue Management System Risk Using Anomaly Detection in Short Booking Windows”-Paper Publication-MWDSI 2022 Conference.
+* Google Data Analytics Professional Certification- Coursera.
+* Data Camp: Data Analytics with Python.
 
 
 
