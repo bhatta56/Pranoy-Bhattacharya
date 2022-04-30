@@ -1,4 +1,4 @@
-bhatta56@purdue.edu | 7654303029 | [Linkedin]((https://www.linkedin.com/in/pranoy-bhattacharya/)
+bhatta56@purdue.edu | 7654303029 | ####[Linkedin]((https://www.linkedin.com/in/pranoy-bhattacharya/)
 
 # Professional Career
 
