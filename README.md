@@ -2,7 +2,7 @@ bhatta56@purdue.edu | 7654303029
 
 # Professional Career
 
-## PayPal: Data Analyst – Fraud Risk
+## PayPal: Data Analyst – Fraud
 ##### September 2018 – July 2021
  
 
