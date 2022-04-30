@@ -4,7 +4,7 @@ Ex PayPal (Data Analyst) | MS @ Purdue (BAIM)
 # Professional Career
 
 ## PayPal: Data Analyst – Fraud Risk
-### September 2018 – July 2021
+#### September 2018 – July 2021
  
 
 #### India Launch Acquisition Strategy
@@ -50,6 +50,8 @@ Ex PayPal (Data Analyst) | MS @ Purdue (BAIM)
 * “Mitigating Hotel Revenue Management System Risk Using Anomaly Detection in Short Booking Windows”-Paper Publication-MWDSI 2022 Conference.
 * Google Data Analytics Professional Certification- Coursera.
 * Data Camp: Data Analytics with Python.
+
+![LinkedIn](https://www.linkedin.com/in/pranoy-bhattacharya/)
 
 
 
