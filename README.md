@@ -1,4 +1,4 @@
-Ex PayPal (Data Analyst) | MS @ Purdue (BAIM)
+bhatta56@purdue.edu | 7654303029 | MS @ Purdue (BAIM) 
 
 # Professional Career
 
