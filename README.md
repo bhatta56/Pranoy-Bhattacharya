@@ -3,7 +3,7 @@ bhatta56@purdue.edu | 7654303029 | ####[Linkedin]((https://www.linkedin.com/in/p
 # Professional Career
 
 ## PayPal: Data Analyst – Fraud Risk
-#### September 2018 – July 2021
+##### September 2018 – July 2021
  
 
 #### India Launch Acquisition Strategy
