@@ -1,4 +1,3 @@
-# Pranoy Bhattacharya Portfolio
 Ex PayPal (Data Analyst) | MS @ Purdue (BAIM)
 
 # Professional Career
