@@ -1,4 +1,4 @@
-bhatta56@purdue.edu | 7654303029 | MS @ Purdue (BAIM) 
+bhatta56@purdue.edu | 7654303029 | [Linkedin]((https://www.linkedin.com/in/pranoy-bhattacharya/)
 
 # Professional Career
 
@@ -49,5 +49,3 @@ bhatta56@purdue.edu | 7654303029 | MS @ Purdue (BAIM)
 * “Mitigating Hotel Revenue Management System Risk Using Anomaly Detection in Short Booking Windows”-Paper Publication-MWDSI 2022 Conference.
 * Google Data Analytics Professional Certification- Coursera.
 * Data Camp: Data Analytics with Python.
-
-#### [Linkedin]((https://www.linkedin.com/in/pranoy-bhattacharya/)
