@@ -50,11 +50,4 @@ Ex PayPal (Data Analyst) | MS @ Purdue (BAIM)
 * Google Data Analytics Professional Certification- Coursera.
 * Data Camp: Data Analytics with Python.
 
-![LinkedIn](https://www.linkedin.com/in/pranoy-bhattacharya/)
-
-
-
-
-
-
-
+#### [Linkedin]((https://www.linkedin.com/in/pranoy-bhattacharya/)
